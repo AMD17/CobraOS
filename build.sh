@@ -277,3 +277,8 @@ for arch in x86_64; do
 done
 
 run_once make_iso
+
+system>network
+system>network>instagram
+system>network>username>rakhimova__z14
+system>network>username>rakhimova__z14>password
